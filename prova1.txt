@@ -1,8 +1,8 @@
 riga 1 blah blah
 riga 2
-riga xxxxxxxxxxx
+riga 3 aggiunta
 
-
-int x=4;
-x=7;
+int x=5;
+y=7;
+z=t;
 y=6;
