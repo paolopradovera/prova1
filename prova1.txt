@@ -1,2 +1,8 @@
-riga 1
+riga 1 modificata da 2
 riga 2
+riga 3 aggiunta
+
+int x=5;
+y=7;
+z=t;
+y=6;
