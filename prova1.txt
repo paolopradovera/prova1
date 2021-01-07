@@ -1,2 +1,8 @@
-riga 1
+riga 1 blah blah
 riga 2
+riga xxxxxxxxxxx
+
+
+int x=4;
+x=7;
+y=6;
